@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #0f1a38;
+    background-color: #1c2b52;
 }
 .home {
     font-size: 2rem;
@@ -32,7 +32,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 5px solid rgb(38, 117, 244);
+    border: 5px solid rgb(51, 120, 230);
     border-radius: 10px;
 }
 
@@ -118,7 +118,6 @@ body {
     float: right;
 }
 .register {
-    font-family: "myFont";
     font-size: 7rem;
     color: rgba(34, 228, 34, 0.756);
 }
@@ -161,7 +160,7 @@ body {
     justify-items: flex-start;
     color: rgba(255, 187, 0, 0.936);
     font-size: 1.5rem;
-    border: 3px solid rgba(127, 139, 242, 0.771);
+    border: 3px solid rgba(115, 125, 216, 0.7);
     border-radius: 15px;
     padding: 10px 20px 0px 20px;
     margin: 0px 40px 20px 40px;
@@ -189,7 +188,7 @@ body {
 #year_selection {
     padding: 10px 320px 10px 10px;
     margin: 0px 50px 30px 50px;
-    background-color: rgba(69, 75, 123, 0.616);
+    background-color: rgba(72, 85, 179, 0.616);
     color: white;
     display: flex;
     justify-content: flex-start;
@@ -210,7 +209,7 @@ body {
 
 .code_of_conduct {
     display: flex;
-    border: 3px solid rgba(127, 139, 242, 0.771);
+    border: 3px solid rgba(106, 117, 223, 0.771);
     border-radius: 15px;
     color: white;
     padding: 30px;
@@ -226,7 +225,7 @@ body {
     padding: 10px 30px 10px 30px;
     border-radius: 10px;
     font-size: 1.5rem;
-    background-image: linear-gradient(to right, #ffc800, #ff6a00);
+    background-image: linear-gradient(to right, #ffc800, #ff4000);
     font-weight: bold;
     margin: 0px 0px 50px 0px;
     cursor: pointer;
@@ -234,7 +233,7 @@ body {
 
 .submit:hover {
     padding: 10px 100px 10px 100px;
-    transition-duration: 0.5s;
+    transition-duration: 0.2s;
     font-size: 2rem;
 }
 
